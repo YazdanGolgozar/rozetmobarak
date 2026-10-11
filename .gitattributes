@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.woff2 binary
+*.mp3 binary
+*.m4a binary
+*.ogg binary
+*.wav binary
+*.flac binary
+.openai/** export-ignore
+dist/** export-ignore
